@@ -13,10 +13,14 @@ The disadvantages of decision trees include:
 
 - Decision-tree learners can create over-complex trees that do not generalise the data well. This is called overfitting. Mechanisms such as pruning, setting the minimum number of samples required at a leaf node or setting the maximum depth of the tree are necessary to avoid this problem.
 - Decision trees can be unstable because small variations in the data might result in a completely different tree being generated. This problem is mitigated by using decision trees within an ensemble.
+![image](https://user-images.githubusercontent.com/98854983/167312217-f6d78577-fdb6-4c49-b33e-9f84bf035e24.png)
 
 
-
-*General structure of tree.*
+                         
+                         
+                         
+                         
+                                                             *General structure of tree.*
 ## ***Task:***
 In this notebook we implement the decision tree algorithm for indicating whether it is humid or not based on features such as ['air\_pressure\_9am', 'air\_temp\_9am', 'avg\_wind\_direction\_9am', 'avg\_wind\_speed\_9am', 'max\_wind\_direction\_9am', 'max\_wind\_speed\_9am', 'rain\_accumulation\_9am', 'rain\_duration\_9am', 'relative\_humidity\_9am']
 
