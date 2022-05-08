@@ -27,13 +27,13 @@ Unsupervised Learning
 1.K-Means Clustering
 
 
-About the data
+About the data --
 All the data used in these algorithms are from public database, such as Kaggle [https://www.kaggle.com/], UCI Machine Learning Repository[ https://archive.ics.uci.edu/ml/index.php], etc. And some random numberical data are generated as needed in the code.
 
 
-Programming Tools and Libraries
+Programming Tools and Libraries --
 Python,Jupyter Notebook, Visual Studio Code, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow, etc.
 
 
-References
-Professor's youtube videos and several other pages.
+References --
+Professor's youtube videos.
